@@ -133,6 +133,6 @@ These interventions may help improve student well-being and reduce dropout risk.
 
 ---
 
-## 👤 Author
+##  Author
 
 Gauri Gupta
